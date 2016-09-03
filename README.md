@@ -2,7 +2,7 @@ Object detection (нахождение объектов).
 Для того чтобы находить объекты на видеопотоке с камеры необходимо:
 - Python 2.7
 - Scipy и Numpy (желательно последних версий)
-- Библиотека OpenCV  
+- Библиотека OpenCV http://opencv.org/downloads.html  
 В примере используется
 - Python 2.7.12
 - Scipy 0.9.0 (python2.7)
